@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+### Languages and Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+
 <!--
 **ShulimanHossain/ShulimanHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
