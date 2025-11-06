@@ -25,10 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShulimanHossain&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark)
 
