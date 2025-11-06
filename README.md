@@ -21,10 +21,12 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ShulimanHossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&card_width=450"
+    alt="Top Languages" 
+  />
 </p>
-
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark)
