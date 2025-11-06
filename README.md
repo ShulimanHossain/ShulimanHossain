@@ -29,7 +29,8 @@
 </p>
 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&custom_title=Shuliman%20Hossain%27s%20Activity%20Graph&bg_color=0D1117&color=00FFFF&line=00FFAA&point=FFFFFF&area=true&theme=github-dark)
+
 
 <!--
 **ShulimanHossain/ShulimanHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
