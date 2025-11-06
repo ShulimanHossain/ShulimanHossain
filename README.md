@@ -17,6 +17,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 
 </p>
+## Github stats and acitivity
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
