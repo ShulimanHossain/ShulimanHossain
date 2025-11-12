@@ -2,10 +2,10 @@
   I’m a Computer Science and Engineering student driven by a deep curiosity for technology and a commitment to solving real-world problems through innovative solutions. I’m deeply interested in Artificial Intelligence (AI) and Machine Learning (ML), focusing on how data and algorithms can be used to create systems that learn, adapt, and make smart decisions.
 
  ### 🧠About Me
-🎓 CSE undergraduate passionate about Data Science, AI and Computer Networking
-💻 Experienced with C, C++, Java, Python, and backend frameworks like Flask
-📊 Interested in Data Analysis, Machine Learning, and System Simulation
-🚀 Open to collaboration on open-source and innovative tech projects
+- 🎓 CSE undergraduate passionate about Data Science, AI and Computer Networking
+- 💻 Experienced with C, C++, Java, Python, and backend frameworks like Flask
+- 📊 Interested in Data Analysis, Machine Learning, and System Simulation
+
 
 ## Connect with Me
 
@@ -15,32 +15,32 @@
 </p>
  
 ### Languages and Tools:
-<p>
+<p> align="center"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
 </p>
 
 ## GitHub stats and activity:
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div  align= "center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ShulimanHossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" style="object-fit: contain;"/>
 
   <!-- Top Languages -->
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&card_width=450" alt="Top Languages" height="180" style="object-fit: contain;"/>
   
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&card_width=450" alt="Top Languages" height="180" style="object-fit: contain;"/>
+</div>
   <!-- Activity Graph -->
+  <div  align= "center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark" alt="Activity Graph" height="180" style="object-fit: contain;"/>
 </div>
 
