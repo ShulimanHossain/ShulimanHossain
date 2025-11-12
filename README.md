@@ -33,7 +33,7 @@
 
 <div align= "center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ShulimanHossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" style="object-fit: contain;"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=ShulimanHossain&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats"/>
 
   <!-- Top Languages -->
   
