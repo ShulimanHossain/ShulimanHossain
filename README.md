@@ -1,5 +1,5 @@
 ## Hi👋, I'm Shuliman Hossain
-
+  I’m a Computer Science and Engineering student driven by a deep curiosity for technology and a commitment to solving real-world problems through innovative solutions. I’m deeply interested in Artificial Intelligence (AI) and Machine Learning (ML), focusing on how data and algorithms can be used to create systems that learn, adapt, and make smart decisions. Alongside this, I’m strengthening my skills in Python, C, C++, and Java, and developing a solid understanding of data-driven analysis and computational thinking.
 
 
 ### Languages and Tools:
