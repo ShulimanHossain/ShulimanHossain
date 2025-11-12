@@ -15,7 +15,7 @@
 </p>
  
 ### Languages and Tools:
-<p> align="center"
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
@@ -31,7 +31,7 @@
 
 ## GitHub stats and activity:
 
-<div  align= "center">
+<div align= "center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ShulimanHossain&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" style="object-fit: contain;"/>
 
@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&card_width=450" alt="Top Languages" height="180" style="object-fit: contain;"/>
 </div>
   <!-- Activity Graph -->
-  <div  align= "center">
+<div  align= "center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark" alt="Activity Graph" height="180" style="object-fit: contain;"/>
 </div>
 
