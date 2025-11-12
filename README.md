@@ -1,7 +1,19 @@
 ## Hi👋, I'm Shuliman Hossain
-  I’m a Computer Science and Engineering student driven by a deep curiosity for technology and a commitment to solving real-world problems through innovative solutions. I’m deeply interested in Artificial Intelligence (AI) and Machine Learning (ML), focusing on how data and algorithms can be used to create systems that learn, adapt, and make smart decisions. Alongside this, I’m strengthening my skills in Python, C, C++, and Java, and developing a solid understanding of data-driven analysis and computational thinking.
+  I’m a Computer Science and Engineering student driven by a deep curiosity for technology and a commitment to solving real-world problems through innovative solutions. I’m deeply interested in Artificial Intelligence (AI) and Machine Learning (ML), focusing on how data and algorithms can be used to create systems that learn, adapt, and make smart decisions.
 
+ ### 🧠About Me
+🎓 CSE undergraduate passionate about Data Science, AI and Computer Networking
+💻 Experienced with C, C++, Java, Python, and backend frameworks like Flask
+📊 Interested in Data Analysis, Machine Learning, and System Simulation
+🚀 Open to collaboration on open-source and innovative tech projects
 
+## Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shuliman-hossain/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/ShulimanHossain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+ 
 ### Languages and Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
