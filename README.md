@@ -37,7 +37,7 @@
 
   <!-- Top Languages -->
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&langs_count=20&theme=tokyonight&hide_border=false&card_width=450" alt="Top Languages" height="180" style="object-fit: contain;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" height="180" alt="Top Languages"/>
 </div>
   <!-- Activity Graph -->
 <div  align= "center">
