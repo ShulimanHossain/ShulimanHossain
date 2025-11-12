@@ -31,14 +31,15 @@
 
 ## GitHub stats and activity:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShulimanHossain&show_icons=true&theme=tokyonight&hide_border=false" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" height="180" alt="Top Languages"/>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShulimanHossain&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&langs_count=10&theme=tokyonight&hide_border=false" alt="Top Languages"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" alt="Activity Graph" height="230"/>
 </div>
+
 
 
 
