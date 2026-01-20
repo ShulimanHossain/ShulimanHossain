@@ -9,10 +9,13 @@
 
 ### Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shuliman-hossain/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/ShulimanHossain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<a href="https://your-portfolio-link](https://shulimanhossain.github.io/Shuliman/.com">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://github.com/ShulimanHossain">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
  
 ##  Languages and Tools
 
