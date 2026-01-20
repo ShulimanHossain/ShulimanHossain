@@ -9,10 +9,10 @@
 
 ### Connect with Me
 
-<a href="https://https://shulimanhossain.github.io/Shuliman/.com">
+<a href="https://shulimanhossain.github.io/Shuliman/">
   <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/ShulimanHossain">
+<a href="https://linkedin.com/in/shuliman-hossain">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/ShulimanHossain">
