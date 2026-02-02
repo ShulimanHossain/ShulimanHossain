@@ -11,11 +11,13 @@
 
 ## Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&theme=react)
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" height="230"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&theme=react" height="180"/>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" height="230"/>
 
 </div>
 
