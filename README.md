@@ -9,17 +9,15 @@
 
 ### Connect with Me
 
-## Most Used Languages
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&theme=react" height="180"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" height="230"/>
-
-</div>
+<a href="https://shulimanhossain.github.io/Shuliman/">
+  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/shuliman-hossain">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/ShulimanHossain">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 
 
@@ -44,36 +42,10 @@
 
 
 
-<div align="center" style="margin-top: 20px;">
-
-  <!-- Most Used Languages (TOP) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&theme=react&hide_border=false" 
-       alt="Most Used Languages" height="180"/>
-
-  <br/><br/>
-
-  <!-- Activity Graph (BOTTOM) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" 
-       alt="Activity Graph" height="230"/>
-
-</div>
+<div align="center" style="margin-top: 20px;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" alt="Activity Graph" height="230"/> </div>
 
 
 
 
 
 
-<!--
-**ShulimanHossain/ShulimanHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
