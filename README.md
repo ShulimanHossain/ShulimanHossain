@@ -42,8 +42,19 @@
 
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" alt="Activity Graph" height="230"/>
+
+  <!-- Most Used Languages (TOP) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&theme=react&hide_border=false" 
+       alt="Most Used Languages" height="180"/>
+
+  <br/><br/>
+
+  <!-- Activity Graph (BOTTOM) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" 
+       alt="Activity Graph" height="230"/>
+
 </div>
+
 
 
 
