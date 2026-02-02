@@ -9,15 +9,16 @@
 
 ### Connect with Me
 
-<a href="https://shulimanhossain.github.io/Shuliman/">
-  <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shuliman-hossain">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/ShulimanHossain">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShulimanHossain&layout=compact&theme=react)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShulimanHossain&theme=react-dark&hide_border=false" height="230"/>
+
+</div>
+
 
 
  
